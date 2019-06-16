@@ -54,10 +54,11 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "brett.gall@duke.edu"
 phone = ""
-address = """Department of Political Science <br>
-           Duke University <br>
-           Campus Box 90204 <br>
-           Durham NC 27708 USA"""
+address = """Brett J. Gall <br>
+             Department of Political Science <br>
+             Duke University <br>
+             Box 90204 <br>
+             Durham, NC 27708 USA"""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
