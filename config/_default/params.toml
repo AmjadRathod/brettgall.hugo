@@ -8,8 +8,10 @@ color_theme = "default"
 day_night = false
 
 # Font style.
-#   Choose from `default`, `classic`, or `playfair`.
-font = "classic"
+#   Choose from `default`, `classic`, `playfair`
+#   `classic_small` or `'playfair_small` (these last 2
+#   added by me in data/font in site root directory).
+font = "default_revamp"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "Brett J. Gall is a social scientist and PhD Candidate at Duke University."
