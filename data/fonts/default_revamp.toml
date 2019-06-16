@@ -6,10 +6,10 @@ google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono|Playfair
 
 # Font families
 heading_font = "Montserrat"
-body_font = "Playfair Display"
+body_font = "Roboto"
 nav_font = "Roboto"
 mono_font = "Roboto Mono"
 
 # Font size
-font_size = "20"
+font_size = "16"
 font_size_small = "10"
