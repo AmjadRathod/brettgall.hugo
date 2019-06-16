@@ -14,7 +14,7 @@ day_night = false
 font = "default_revamp"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Brett J. Gall is a social scientist and PhD Candidate at Duke University."
+description = "Website of Brett J. Gall, social scientists and Ph.D. Candidate at Duke University."
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "sharing_img.jpg"

@@ -14,13 +14,9 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate specializing in Political Behavior and Methodology in the [Department of Political Science](https://polisci.duke.edu/) at Duke University.
+I am a PhD candidate specializing in Political Behavior and Methodology in the [Department of Political Science](https://polisci.duke.edu/) at Duke University. I employ quantitative methods to answer questions at the intersection of political economy and political behavior. My substantive interests are in taxation and redistribution, economic and political inequality, preference and belief formation, and behavioral geography.
 
-I employ quantitative methods to answer questions at the intersection of political economy and political behavior. My substantive interests are in taxation and redistribution, economic and political inequality, preference and belief formation, and behavioral geography.
-
-During the 2019-2020 academic year, I am a [Program for Advanced Research in the Social Sciences (PARISS) Fellow](https://ssri.duke.edu/education/program-advanced-research-social-sciences-pariss) with the [Social Science Research Institute](https://ssri.duke.edu/) and Humane Studies Fellow with the [Institute for Humane Studies](https://theihs.org/).
-
-As a proponent of transparency, reproducibility, and accessibility in the social sciences, I serve as a Catalyst for the [Berkeley Initiative for Transparency in the Social Sciences](https://www.bitss.org/).
+During the 2019-2020 academic year, I am a [Program for Advanced Research in the Social Sciences (PARISS) Fellow](https://ssri.duke.edu/education/program-advanced-research-social-sciences-pariss) with the [Social Science Research Institute](https://ssri.duke.edu/) and Humane Studies Fellow with the [Institute for Humane Studies](https://theihs.org/). As a proponent of transparency, reproducibility, and accessibility in the social sciences, I serve as a Catalyst for the [Berkeley Initiative for Transparency in the Social Sciences](https://www.bitss.org/).
 
 I have taught or assisted in teaching courses in both American Politics and Comparative Politics, primarily in political behavior and political economy. As PARISS Fellow, I also provide interdisciplinary methodological assistance to students and researchers.
 
