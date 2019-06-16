@@ -12,44 +12,18 @@
   name = "CV"
   url = "docs/gall_brett_cv.pdf"
   weight = 20
+  
+[[main]]
+  name = "Research"
+  url = "research/"
+  weight = 30
 
 [[main]]
   name = "Teaching"
-  url = "#teaching"
-  weight = 30
-  
-[[main]]
-  name = "The Bell"
-  url = "thebell/"
-  weight = 30
-  
-[[main]]
-  name = "Pals"
-  identifier = "pals"
+  url = "teaching/"
   weight = 40
   
 [[main]]
-  name = "Lisa Turtle"
-  parent = "pals"
-  pre = "<i class=\"fas fa-credit-card\" style=\"color: #fff;\"></i> "
-  url = "authors/lisa"
-  weight = 30
-  
-[[main]]
-  name = "Jessie Spano"
-  parent = "pals"
-  pre = "<i class=\"fas fa-book\" style=\"color: #fff;\"></i> "
-  url = "authors/jessie"
-  weight = 20
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Resources"
+  url = "rsrcs/"
   weight = 50
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
