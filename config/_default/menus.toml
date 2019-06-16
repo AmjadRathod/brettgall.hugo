@@ -9,13 +9,13 @@
   weight = 10
 
 [[main]]
-  name = "News"
-  url = "news/"
+  name = "CV"
+  url = "docs/gall_brett_cv.pdf"
   weight = 20
 
 [[main]]
-  name = "Books"
-  url = "#books"
+  name = "Teaching"
+  url = "#teaching"
   weight = 30
   
 [[main]]
