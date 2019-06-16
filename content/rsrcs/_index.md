@@ -4,7 +4,7 @@ summary: "Resources for research, coding, and productivity."  # Add a page descr
 type: "blank"  
 ---
 
-## Tips and Tricks
+### Tips and Tricks
 
 - [Understand the behavior of NA values in R](https://gist.github.com/bgall/1de4e8e741491ed478554b3c5259f8d7)
 
@@ -15,19 +15,19 @@ type: "blank"
 - [Common Student Mistakes in Academic Writing](/docs/common_mistakes_in_writing.pdf)
 
 
-## Reproducible, Transparent, Open Research
+### Reproducible, Transparent, Open Research
 
 - [Berkeley Initiative for Transparency in the Social Sciences](http://www.bitss.org)
 
 - [Open Science Framework](https://osf.io)
 
 
-## Want to make a website like this?
+### Want to make a website like this?
 
 - This website was written in Markdown with the [Academic](https://github.com/gcushen/hugo-academic) theme of the [Hugo](https://gohugo.io) static site generator. The source files are hosted on [GitHub](https://github.com) and continuously deployed thanks to [Netlify](https://www.netlify.com)'s building, deployment, and hosting of the front end.
 
 
-## Social Science Blogs
+### Social Science Blogs
 
 - [Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com)
 
